@@ -1,14 +1,14 @@
 # :metal:Hi! I'm DevId!:metal:
-[![Linkedin Badge](https://img.shields.io/badge/Martí_Sellarés-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbuxarrais)
-[![Twitch Badge](https://img.shields.io/badge/Devilquest-6441a5?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/devidcat)
-[![Youtube Badge](https://img.shields.io/badge/Devilquest-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@devidcat)
-[![GitHub Badge](https://img.shields.io/badge/Devilquest-181717?style=flat&logo=github&logoColor=white)](https://github.com/genfish)
+[![Linkedin Badge](https://img.shields.io/badge/David_Buxarrais-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbuxarrais)
+[![Twitch Badge](https://img.shields.io/badge/Devidcat-6441a5?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/devidcat)
+[![Youtube Badge](https://img.shields.io/badge/Devidcat-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@devidcat)
+[![GitHub Badge](https://img.shields.io/badge/Genfish-181717?style=flat&logo=github&logoColor=white)](https://github.com/genfish)
 
 **Welcome to my profile!**
 
 Self-taught software and video game developer on a mission to turn caffeine into code! Crafting games and apps for pure fun during coffee breaks.
 - I’m interested in :weight_lifting:Sports, :mountain:Mountains, :mushroom:Nature, :video_game:Video Games & :rocket:Technology
-- I’m currently learning :electron:Electronics & :slot_machine:Arduino
+- I’m currently learning :electron:Electronics
 <br>
 
 ## :man_technologist:Programming Languages, Software & Skills
@@ -47,10 +47,8 @@ Self-taught software and video game developer on a mission to turn caffeine into
 <br>
 
 ## :space_invader:Other Stuff & Fun Facts About Me
-- I keep ants, praying mantis and other insects :ant::beetle::cricket::spider::scorpion:
 - Sometimes I stream on [![Twitch Status](https://img.shields.io/twitch/status/devidcat?label=Twitch.tv&style=social)](https://www.twitch.tv/devidcat)
 - I love Retro Video Games :blue_heart:
-- I collect Master System & Mega Drive consoles & games :joystick:
 <br>
 
 ------------
@@ -60,4 +58,4 @@ Self-taught software and video game developer on a mission to turn caffeine into
 
 **Donations are always greatly appreciated. Thank you for your support!**
 
-<a href="https://ko-fi.com/devidcat" target="_blank"><img src="https://i.imgur.com/RHHFQWs.png" alt="Buy Me A Coffe"></a>
+<a href="https://ko-fi.com/devidcat" target="_blank"><img src="https://help.ko-fi.com/hc/article_attachments/11833788361117" alt="Buy Me A Coffe"></a>
