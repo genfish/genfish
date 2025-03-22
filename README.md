@@ -55,6 +55,13 @@ Self-taught software and video game developer balancing my mission between codin
 
 <br>
 
+## :space_invader:Other Stuff & Fun Facts About Me
+- Sometimes I stream on [![Twitch Status](https://img.shields.io/twitch/status/devidcat?label=Twitch.tv&style=social)](https://www.twitch.tv/devidcat)
+- I love Retro Video Games :blue_heart:
+<br>
+
+------------
+
 ## :heart: Donations
 ~~Throw away your money~~
 
@@ -63,3 +70,18 @@ Self-taught software and video game developer balancing my mission between codin
 <a href="https://ko-fi.com/devidcat" target="_blank"><img src="https://help.ko-fi.com/hc/article_attachments/11833788361117" alt="Buy Me A Coffee"></a>
 
 <a href="https://www.twitch.tv/subs/devidcat" target="_blank"><img src="https://img.shields.io/badge/Subscribe_on_Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Subscribe on Twitch"></a>
+
+<br>
+
+## :bar_chart:Stats
+<p align="center">
+  <a href="#bar_chartstats">
+    <img src="https://github-readme-stats.vercel.app/api?username=genfish&theme=gotham&show_icons=true&rank_icon=percentile&hide=issues&include_all_commits=true" alt="DevId's GitHub Stats"/>
+  </a>
+  <a href="#bar_chartstats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genfish&theme=gotham&layout=compact" alt="DevId's Top Languages"/>
+  </a>
+  <a href="#bar_chartstats">
+    <img src="https://github-profile-trophy.vercel.app/?username=genfish&theme=monokai&row=1&column=6" alt="DevId's GitHub Trophies"/>
+  </a>
+</p>
