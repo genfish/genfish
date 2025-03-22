@@ -16,7 +16,7 @@
 Self-taught software balancing my mission between coding, game player, the exciting (and sometimes chaotic) adventures of being a parent, and now diving into the world of Artificial Intelligence! 🎮👶💻🤖
 
 - **I’m interested in:** :weight_lifting: Sports, :mountain: Mountains, :mushroom: Nature, :video_game: Video Games, :rocket: Technology, 🎬 Cinema & Series
-- **I’m currently learning:** :electron: Electronics, 🖥️ Programming Languages, 🎥 Video & Photo Editing, 🤖 Artificial Intelligence
+- **I’m currently learning:** 🖥️ Programming Languages, 🎥 Video & Photo Editing, 🤖 Artificial Intelligence
 <br>
 
 ## :man_technologist: Programming Languages, Software & Skills
@@ -28,6 +28,8 @@ Self-taught software balancing my mission between coding, game player, the excit
 [![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791)](https://www.postgresql.org/)
 
 ### Frameworks & Libraries
 [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](#)
@@ -51,25 +53,26 @@ Self-taught software balancing my mission between coding, game player, the excit
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Plesk Badge](https://img.shields.io/badge/Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
-[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](#)
 
 ### Software
 
 #### Code Tools:
-- Visual Studio Code [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue)](https://code.visualstudio.com/)
-- Xcode
-- Sublime Text 3
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue)](https://code.visualstudio.com/)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](#)
+[![Xcode](https://img.shields.io/badge/IDE-Xcode-147EFB)](https://developer.apple.com/xcode/)
+[![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-FF7A00)](https://www.sublimetext.com/)
 
 #### Streaming:
-- OBS Studio [![OBS Studio](https://img.shields.io/badge/Streaming-OBS_Studio-black)](https://obsproject.com/)
-- Streamlabs OBS
-- XSplit Broadcaster
-- vMix
-- Restream
+[![OBS Studio](https://img.shields.io/badge/OBS_Studio-black)](https://obsproject.com/)
+[![Streamlabs OBS](https://img.shields.io/badge/Streamlabs_OBS-00B140)](https://streamlabs.com/)
+[![XSplit Broadcaster](https://img.shields.io/badge/XSplit_Broadcaster-0C0C0C)](https://www.xsplit.com/)
+[![vMix](https://img.shields.io/badge/vMix-4C4C4C)](https://www.vmix.com/)
+[![Restream](https://img.shields.io/badge/Restream-1E5D6D)](https://restream.io/)
 
-#### Video Editing:
-- Adobe Premiere [![Adobe Premiere](https://img.shields.io/badge/Editing-Adobe_Premiere-FF0000)](https://www.adobe.com/products/premiere.html)
-- DaVinci Resolve
+#### Video/Photo Editing:
+[![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-FF0000)](https://www.adobe.com/products/premiere.html)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1E1E1E)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF)](https://www.adobe.com/products/photoshop.html)
 
 <br>
 
@@ -80,13 +83,10 @@ Self-taught software balancing my mission between coding, game player, the excit
 <br>
 
 ## :heart: Donations
-~~Throw away your money~~
+~~Throw away your money~~ **Donations are always greatly appreciated. Thank you for your support!**
 
-**Donations are always greatly appreciated. Thank you for your support!**
-
-<a href="https://ko-fi.com/devidcat" target="_blank"><img src="https://help.ko-fi.com/hc/article_attachments/11833788361117" alt="Buy Me A Coffee"></a>
-
-<a href="https://www.twitch.tv/subs/devidcat" target="_blank"><img src="https://img.shields.io/badge/Subscribe_on_Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Subscribe on Twitch"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5EA1M)
+[![Subscribe on Twitch](https://img.shields.io/badge/Subscribe_on_Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/subs/devidcat)
 
 <br>
 
