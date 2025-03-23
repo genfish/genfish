@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidbuxarrais"><img src="https://img.shields.io/badge/David_Buxarrais-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://devid.aixeta.com/"><img src="https://img.shields.io/badge/Aixeta-FF8000?style=flat&logo=firefox&logoColor=white"></a>
+  <a href="https://devid.aixeta.cat/"><img src="https://img.shields.io/badge/Aixeta-FF8000?style=flat&logo=firefox&logoColor=white"></a>
   <a href="https://bsky.app/profile/devidcat.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=bluesky&logoColor=white"></a>
   <a href="https://youtube.com/@devidcat"><img src="https://img.shields.io/badge/Devidcat-FF0000?style=flat&logo=youtube&logoColor=white"></a>
   <a href="https://www.twitch.tv/devidcat"><img src="https://img.shields.io/badge/Devidcat-6441a5?style=flat&logo=twitch&logoColor=white"></a>
