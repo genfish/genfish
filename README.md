@@ -39,27 +39,35 @@ Self-taught software balancing my mission between coding, game player, the excit
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
 [![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=black)](https://cordova.apache.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](#)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](#)
+[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](#)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](#)
+[![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](#)
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](#)
 [![MooTools](https://img.shields.io/badge/MooTools-8F8F8F?style=flat)](https://mootools.net/)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](#)
 
-### CMS & E-commerce
+### CMS & E-commerce & ERP
 [![Pimcore Badge](https://img.shields.io/badge/Pimcore-542E91?style=flat&logo=pimcore&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#)
 [![WooCommerce Badge](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)](#)
 [![Magento Badge](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)](#)
 [![PrestaShop Badge](https://img.shields.io/badge/PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white)](#)
+[![nopCommerce Badge](https://img.shields.io/badge/nopCommerce-2D7D9A?style=flat)](#)
+[![Shopify Badge](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](#)
+[![Sage200 Badge](https://img.shields.io/badge/Sage200-00DC82?style=flat)](#)
 
 ### Development Tools & Platforms
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Plesk Badge](https://img.shields.io/badge/Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](#)
 
 ### Software
 
@@ -68,6 +76,7 @@ Self-taught software balancing my mission between coding, game player, the excit
 [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/IDE-Xcode-147EFB)](https://developer.apple.com/xcode/)
 [![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-FF7A00)](https://www.sublimetext.com/)
+[![Claude Code Badge](https://img.shields.io/badge/Claude_Code-D97757?style=flat)](#)
 
 #### Streaming:
 [![OBS Studio](https://img.shields.io/badge/OBS_Studio-black)](https://obsproject.com/)
